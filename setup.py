@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Basierend auf https://github.com/jostosh/libspn/blob/feature/em_sum_sampling/setup.py
 from setuptools import setup
 import distutils.command.build
 import distutils.command.clean
